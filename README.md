@@ -14,15 +14,6 @@ I'm new to Computer Science and enjoy learning by building, exploring, and stayi
 - 🤖 Interested in exploring Artificial Intelligence
 - 🌱 Always learning and improving through consistent practice
 
----
-
-## 🛠️ Technologies & Tools I'm Learning
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"DSA" (https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Learning-blue?style=for-the-badge)
-"Git" (https://img.shields.io/badge/Git-Learning-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-Learning-181717?style=for-the-badge&logo=github)
-
 ## As I continue learning, I hope to explore more areas of Computer Science and discover where my passion lies.
 
 ---
