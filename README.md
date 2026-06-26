@@ -30,9 +30,12 @@ I'm new to Computer Science and enjoy learning by building, exploring, and stayi
 
 <!-- Replace Yuva-505 with your GitHub username if it changes -->"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=Yuva-505&show_icons=true&theme=default)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-505&layout=compact&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=yuva-505&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yuva-505&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-"GitHub Contribution Graph" (https://github-readme-activity-graph.vercel.app/graph?username=yuva-505)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuva-505&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yuva-505&color=58A6FF&style=flat-square&label=profile+views)![GitHub followers](https://img.shields.io/github/followers/yuva-505?style=flat-square&color=58A6FF&label=followers)
 
 ---
 
